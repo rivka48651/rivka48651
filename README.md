@@ -1,5 +1,6 @@
 🙋‍♀️ Hi, I'm Rivka Attias
-A Software Developer specializing in DevOps, cloud systems, and full-stack development.
+A Software Developer specializing in DevOps, cloud systems,
+and full-stack development.
 Passionate about designing scalable, AI-driven applications and building modern, reliable infrastructure.
 
  💻 About Me
